@@ -1,4 +1,4 @@
-## I wanna learn coding,ok!
+## learn coding,ok!
 
 <!--
 **cryptoguchia/cryptoguchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
