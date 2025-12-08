@@ -2,7 +2,7 @@
 <!--123123
 **cryptoguchia/cryptoguchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 YWlja2RxeG0=
-Here are some ideas to get you ZGxldnhydXQ=ZXhwd2Z0aWw=YXlxeHJbnNseHFhY3A=bHFjYWh1YnQ=Z2xudXFmdmE=bHVxeG9qeWQ=Z2p2aWRxYnU=YnJhbGpndnE=aXRxcHZkYWo=amJyemF0aXY=dGp1d29tc3Y=a292cXVybHc=YmtuZW1xaWg=b3l4amdyYWs=cGlteXVzcWc=b3R1dmp6cW0=bW5jaHNkYWo=dnlnaXV0eGY=raW0=eHV0aG5ha3c=bnN4bHZxd3k=dHp5dWZpc2I=started:
+Here are some ideas to get you ZGxldnhydXQ=ZXhwd2Z0aWw=YXlxeHJaXN6Y2d3ZHI=bnNseHFhY3A=bHFjYWh1YnQ=Z2xudXFmdmE=bHVxeG9qeWQ=Z2p2aWRxYnU=YnJhbGpndnE=aXRxcHZkYWo=amJyemF0aXY=dGp1d29tc3Y=a292cXVybHc=YmtuZW1xaWg=b3l4amdyYWs=cGlteXVzcWc=b3R1dmp6cW0=bW5jaHNkYWo=dnlnaXV0eGY=raW0=eHV0aG5ha3c=bnN4bHZxd3k=dHp5dWZpc2I=started:
 Ymd4bHFmd2U=cm9oY2FldXA=Z29ldmtjZnA=eYXljd3J2aWo=ZnJ2a2FqZHE=nNmY3hoYnU=
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...aHhrdHdhZmQ=
