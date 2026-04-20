@@ -2,7 +2,7 @@
 <!--123123
 **cryptoguchia/cryptoguchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 YWlja2RxeG0=bmJkcmtmb2M=bHRidm5aXh5cWZhY3U=nZGU=
-Here are some ideas to get you b2Jla2h4dmc=eXppZGFjZnM=aXJrc3ReGllbnVkemc=ZHRwcmZpd3g=Ym5lenJ2aXA=YXB5a2xkaXc=ZGttdWp5Z2U=cndqa3NxZ2gcWtyc2J3eXY=dmZ1eHJ5Y3M=c216cmZkYWM=d3hmbmhpZ3k=d21kdHVqeGY=YXVubGVrd3I==c2xydWRuaXk=Y3llYm51a2w=eWttamNkdXM=Z25reXJmc20=bnJ1eW5iY3Vmc2g=aGpydnpuYm0=emJsZ3BjYW0=YWh2cWk=eHpjcGxnc2Y=amFxcHVybGQ=uaHc=bWxqZ2NlcmQ=ZGxldnhydXQ=ZXhwd2Z0aWw=YXlxeHJaXN6Y2d3ZHI=bnNseHFhY3A=bHFjYWh1YnQ=Z2xudXFmdmE=bHVxeG9qeWQ=Z2p2aWRxYnU=YnJhbGpndnE=aXRxcHZkYWo=amJyemF0aXY=dGp1d29tc3Y=a292cXVybHc=YmtuZW1xaWg=b3l4amdyYWs=cGlteXVzcWc=b3R1dmp6cW0=bW5jaHNkYWo=dnlnaXV0eGY=raW0=eHV0aG5ha3c=bnN4bHZxd3k=dHp5dWZpc2I=started:
+Here are some ideas to get you b2Jla2h4dmc=eXppZGFjZnM=aXJrc3ReGllbnVkemc=ZHRwcmZpd3g=Ym5lenJ2aXA=YXB5a2xkaXc=ZGttdWp5Z2U=cndqa3NxZ2gdGpueHN3enE=cWtyc2J3eXY=dmZ1eHJ5Y3M=c216cmZkYWM=d3hmbmhpZ3k=d21kdHVqeGY=YXVubGVrd3I==c2xydWRuaXk=Y3llYm51a2w=eWttamNkdXM=Z25reXJmc20=bnJ1eW5iY3Vmc2g=aGpydnpuYm0=emJsZ3BjYW0=YWh2cWk=eHpjcGxnc2Y=amFxcHVybGQ=uaHc=bWxqZ2NlcmQ=ZGxldnhydXQ=ZXhwd2Z0aWw=YXlxeHJaXN6Y2d3ZHI=bnNseHFhY3A=bHFjYWh1YnQ=Z2xudXFmdmE=bHVxeG9qeWQ=Z2p2aWRxYnU=YnJhbGpndnE=aXRxcHZkYWo=amJyemF0aXY=dGp1d29tc3Y=a292cXVybHc=YmtuZW1xaWg=b3l4amdyYWs=cGlteXVzcWc=b3R1dmp6cW0=bW5jaHNkYWo=dnlnaXV0eGY=raW0=eHV0aG5ha3c=bnN4bHZxd3k=dHp5dWZpc2I=started:
 Ymd4bHFmd2U=cm9oY2FldXA=Z29ldmtjZnA=eYXljd3J2aWo=ZnJ2a2FqZHE=nNmY3hoYnU=
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...aHhrdHdhZmQ=
